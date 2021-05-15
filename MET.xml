@@ -6,10 +6,12 @@
 	<TAF url="https://aviationweather.gov/adds/dataserver_current/httpparam?dataSource=tafs&amp;requestType=retrieve&amp;format=xml&amp;stationString=%ICAO&amp;hoursBeforeNow=0&amp;timeType=valid&amp;mostRecent=true" xmlDataTag="raw_text" mostRecent="true"/>
     <NOTAM url="http://api.vateud.net/notams/%ICAO.xml" xmlDataTag="raw" />
   </ProductTypes>
-  <Browsers><!--bomw0007-->
+  <Browsers>
+	<AreaInHG url="https://www.weather.gov/zhu/#" />
 	<WXRadars url="https://aviationweather.gov/" />
+    <ZHUARTCC url="https://www.zhuartcc.org/" />
+    <FAA url="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/" />
     <IDS url="https://sites.google.com/view/vzhuids/home?authuser=0" />
-    <7110 url="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/" />
-    <TMUs url="https://www.vatusa.net/tmu/notices" />
+    <Map url="https://map.vatsim.net/" />
   </Browsers>
 </MET>
