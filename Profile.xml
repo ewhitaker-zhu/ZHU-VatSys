@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<Profile Name="Australia" FullName="Eurocat Australia (YMMM/YBBB)">
+<Profile Name="Houston Oceanic" FullName="Houston Oceanic">
 	<Version AIRAC="2104" Revision="b" PublishDate="20210512" UpdateURL="https://vatsys.sawbe.com/downloads/data/Australia" />
 	<Servers>
 		<VATSIMStatus url="https://status.vatsim.net/" />
