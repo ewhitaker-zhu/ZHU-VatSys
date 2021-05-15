@@ -8,8 +8,8 @@
   </ProductTypes>
   <Browsers><!--bomw0007-->
 	<WXRadars url="https://aviationweather.gov/" />
-    <ZHU IDS url="https://sites.google.com/view/vzhuids/home?authuser=0" />
-    <7110.65 url="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/" />
-    <TMU Notices url="https://www.vatusa.net/tmu/notices" />
+    <IDS url="https://sites.google.com/view/vzhuids/home?authuser=0" />
+    <7110 url="https://www.faa.gov/air_traffic/publications/atpubs/atc_html/" />
+    <TMUs url="https://www.vatusa.net/tmu/notices" />
   </Browsers>
 </MET>
