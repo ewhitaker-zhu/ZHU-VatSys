@@ -33,7 +33,7 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="West 72" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="West 79" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
     <Sectors/>
     <Maps>
       <Map Name="COAST_ALL" />
