@@ -9,10 +9,10 @@
   <Sector FullName="Offshore Central" Frequency="131.950" Callsign="HOU_53_CTR" Name="53">  
 <Volumes>53</Volumes> 
   </Sector>   
-  <Sector FullName="Oakland Center Sector 5" Frequency="132.650" Callsign="HOU_79_CTR" Name="79">  
+  <Sector FullName="Ocean West" Frequency="132.650" Callsign="HOU_79_CTR" Name="79">  
 <Volumes>79</Volumes> 
   </Sector>  
-  <Sector FullName="Oakland Center Sector 6" Frequency="135.770" Callsign="HOU_72_CTR" Name="72">  
+  <Sector FullName="Ocean East" Frequency="135.770" Callsign="HOU_72_CTR" Name="72">  
 <Volumes>72</Volumes> 
   </Sector>    
 </Sectors>
