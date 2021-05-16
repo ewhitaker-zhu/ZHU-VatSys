@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Group Name="Oceanic">
-  <Position Name="Combined" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="Combined" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="72" />
       <Sector Name="79" />
@@ -22,7 +25,10 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="East 72" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="East 72" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="72" />
       <Sector Name="30" />
@@ -42,7 +48,10 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="West 79" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="West 79" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="79" />
       <Sector Name="28" />
@@ -64,7 +73,10 @@
   </Position>
 </Group>
 <Group Name="Offshore">
-  <Position Name="Combined" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="Combined" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="28" />
       <Sector Name="30" />
@@ -84,7 +96,10 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="West 28" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="West 28" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="28" />
     </Sectors>
@@ -102,7 +117,10 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="East 30" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="East 30" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="30" />
     </Sectors>
@@ -120,7 +138,10 @@
       <Line>Feedback appreciated at https://www.zhuartcc.org/feedback</Line>
     </ControllerInfo>
   </Position>
-  <Position Name="Central 53" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
+  <Position Name="Central 53" Type="ASD" DefaultCenter="+27.204-092.043" DefaultRange="1500">
+	<ManualVisibility>
+		<Point>+27.204-092.043</Point>	
+	</ManualVisibility>  
     <Sectors>
       <Sector Name="53" />
     </Sectors>
