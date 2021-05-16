@@ -2,7 +2,10 @@
 <Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <Group Name="Oceanic">
   <Position Name="Combined" Type="ASD" DefaultCenter="+270000.000-1750000.000" DefaultRange="6000">
-    <Sectors/>
+    <Sectors>
+      <Sector Name="72" />
+      <Sector Name="79" />
+    </Sectors>
     <Maps>
       <Map Name="COAST_ALL" />
     </Maps>
